@@ -12,6 +12,7 @@ import json
 # Modo debug Mostrar en consola
 DEBUG = True
 
+#ANDRES ES GENIAL
 
 # Configuración TCP/IP socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
